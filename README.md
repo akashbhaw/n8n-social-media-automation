@@ -1,3 +1,5 @@
+![Workflow Diagram](workflow-diagram.png)
+
 AI-Powered Social Media Automation Workflow
 This repository contains an advanced automation workflow built with n8n that streamlines the entire process of content creation and publishing across multiple social media platforms.
 
